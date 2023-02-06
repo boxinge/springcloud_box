@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/box-content/box-content-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/box-content/box-content-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/box-content/box-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/box-content/box-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/box-content/box-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/box-content/box-content-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/box-content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/box-content/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/box_base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/box_base/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/box_parent/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/box_parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuecheng-plus-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -5,6 +5,11 @@
       <list>
         <option value="$PROJECT_DIR$/box_parent/pom.xml" />
         <option value="$PROJECT_DIR$/box_base/pom.xml" />
+        <option value="$PROJECT_DIR$/box-content/pom.xml" />
+        <option value="$PROJECT_DIR$/box-content/box-content-api/pom.xml" />
+        <option value="$PROJECT_DIR$/box-content/box-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/box-content/box-content-model/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-generator/pom.xml" />
       </list>
     </option>
   </component>
