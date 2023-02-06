@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/box_base/box_base.iml" filepath="$PROJECT_DIR$/box_base/box_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/box_parent/box_parent.iml" filepath="$PROJECT_DIR$/box_parent/box_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud_box.iml" filepath="$PROJECT_DIR$/.idea/springcloud_box.iml" />
+    </modules>
+  </component>
+</project>
